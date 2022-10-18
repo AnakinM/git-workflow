@@ -5,3 +5,4 @@ def print_cwd() -> None:
 
 if __name__ == "__main__":
     print_cwd()
+    print("Hello world!")
