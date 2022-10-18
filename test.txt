@@ -1,1 +1,2 @@
 Thgis is just a test file.
+This is another line in file.
